@@ -1,5 +1,5 @@
-## :clap:Welcome to Lavard's Org
-**Hi, there. I'm lavard, a font-end and full-stack engineer from China Guangzhou. I am currently studying ~~nuxt.js~~ Java 和~~nest.js~~ Rust** <br />
+## :clap:Welcome to Weibin-Kang's Org
+**Hi, there. I'm Weibin-Kang, a font-end and full-stack engineer from China Guangzhou. I am currently studying ~~nuxt.js~~ Java 和~~nest.js~~ Rust** <br />
 
 ---
 **You see this avatar, you know it is me(joke🤣).**
